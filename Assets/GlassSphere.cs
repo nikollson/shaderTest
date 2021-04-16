@@ -16,3 +16,4 @@ public class GlassSphere : MonoBehaviour
 		_meshRenderer.material.SetFloat("_CenterY", screenPos.y);
 	}
 }
+
